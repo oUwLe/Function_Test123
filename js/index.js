@@ -20,14 +20,14 @@ function subtract(numberOne, numberTwo) {
             console.log("numberOne - numberTwo = " + sum);
 }
 
-let operator = "add"; {
+let operator = "subtract"; {
 } 
 if (operator == "subtract") {
     subtract(80, 40);
 } 
 else if (operator == "add") {
-    add(40, 40);
+    add(20, 20);
 }
 
-add(5, 10);
-subtract(55, 25);
+// add(5, 10);
+// subtract(55, 25);
